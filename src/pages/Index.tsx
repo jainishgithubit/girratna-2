@@ -177,7 +177,7 @@ export default function Index() {
               </Link>
             </div>
             <div className="rounded-3xl overflow-hidden shadow-gold border-2 border-gold/20">
-              <img src={girCow} alt="Gir Cow in green pasture" className="w-full aspect-square object-cover" />
+              <img src={"./gyo.png"} alt="Gir Cow in green pasture" className="w-full aspect-square object-cover" />
             </div>
           </div>
         </div>
