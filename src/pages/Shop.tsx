@@ -131,15 +131,15 @@ ${isSubscribe ? "🔁 Subscription: Yes (10% OFF)" : ""}
                   </button>
 
                   <div className="flex gap-3">
-                    <button
+                    {/* <button
                       onClick={() => sendToWhatsApp(p, subscription[p.id])}
                       className="flex-1 flex items-center justify-center gap-2 border-2 border-primary text-foreground px-4 py-3 rounded-full font-semibold hover:bg-primary/10 transition-colors"
                     >
                       <ShoppingCart className="w-5 h-5" /> Add to Cart
-                    </button>
+                    </button> */}
                     <button
   onClick={() => sendToWhatsApp(p, subscription[p.id])}
-  className="flex-1 bg-gradient-gold text-primary-foreground px-4 py-3 rounded-full font-semibold shadow-gold hover:opacity-90 transition-opacity"
+  className="flex-1 bg-gradient-gold text-primary-foreground px-4 py-3 rounded-full font-semibold shadow-gold hover:opacity-90 transition-opacity w-full"
 >
   Buy Now
 </button>
