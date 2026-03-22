@@ -98,7 +98,7 @@ export default function Contact() {
                   { icon: Phone, label: "Phone", value: "+91 98765 43210", href: "tel:+919876543210" },
                   { icon: Mail, label: "Email", value: "girratnadesighee@gmail.com", href: "mailto:girratnadesighee@gmail.com" },
                   { icon: MapPin, label: "Address", value: "GirRatna Dairy Farm, Junagadh Road, Rajkot, Gujarat 360001" },
-                  { icon: MessageCircle, label: "WhatsApp", value: "+91 98765 43210", href: "https://wa.me/919876543210" },
+                  { icon: MessageCircle, label: "WhatsApp", value: "+91 8160263867", href: "https://wa.me/918160263867" },
                 ].map(item => (
                   <div key={item.label} className="flex gap-4 items-start">
                     <div className="w-12 h-12 rounded-xl bg-gradient-gold flex items-center justify-center shadow-gold shrink-0">
