@@ -49,7 +49,7 @@ export default function Shop() {
   };
 
   const sendToWhatsApp = (product, isSubscribe = false) => {
-  const phone = "919825642597"; // without + sign
+  const phone = "918160263867"; // without + sign
 
   const price = isSubscribe ? Math.round(product.price * 0.9) : product.price;
 
