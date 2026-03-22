@@ -119,7 +119,7 @@ export default function Contact() {
               </div>
 
               {/* Social Links */}
-              <div>
+              {/* <div>
                 <h3 className="font-display text-lg font-semibold mb-4">Follow Us</h3>
                 <div className="flex gap-3">
                   {["Instagram", "Facebook", "YouTube", "Twitter"].map(social => (
@@ -132,7 +132,7 @@ export default function Contact() {
                     </a>
                   ))}
                 </div>
-              </div>
+              </div> */}
 
               {/* Business hours */}
               <div className="mt-10 bg-card rounded-2xl p-6 border border-gold/10">
