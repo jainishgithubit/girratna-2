@@ -21,7 +21,7 @@ export default function Layout({ children }: {children: React.ReactNode;}) {
       <div className="bg-gradient-earth text-cream text-sm py-2 hidden md:block">
         <div className="container flex justify-between items-center">
           <div className="flex gap-6">
-            <span className="flex items-center gap-1"><Phone className="w-3 h-3" />+91 9825642597</span>
+            <span className="flex items-center gap-1"><Phone className="w-3 h-3" />+91 8160263867</span>
             <span className="flex items-center gap-1"><Mail className="w-3 h-3" />girratnadesighee@gmail.com</span>
           </div>
           <span className="flex items-center gap-1"><MapPin className="w-3 h-3" />Gir, Gujarat, India</span>
