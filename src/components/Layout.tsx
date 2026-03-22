@@ -142,7 +142,7 @@ export default function Layout({ children }: {children: React.ReactNode;}) {
       </footer>
 
       {/* WhatsApp Floating Button */}
-      <a href="https://wa.me/919876543210?text=Hi%20GirRatna!%20I%20want%20to%20know%20more%20about%20your%20ghee."
+      <a href="https://wa.me/918160263867?text=Hi%20GirRatna!%20I%20want%20to%20know%20more%20about%20your%20ghee."
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 bg-[#25D366] hover:bg-[#20bd5a] text-white w-14 h-14 rounded-full flex items-center justify-center shadow-lg transition-transform hover:scale-110"
