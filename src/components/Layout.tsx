@@ -118,7 +118,7 @@ export default function Layout({ children }: {children: React.ReactNode;}) {
             <div>
               <h4 className="font-display text-lg font-semibold mb-4">Contact</h4>
               <div className="flex flex-col gap-3 text-sm text-cream/70">
-                <span className="flex items-center gap-2"><Phone className="w-4 h-4 text-gold-light" />+91 9825642597</span>
+                <span className="flex items-center gap-2"><Phone className="w-4 h-4 text-gold-light" />+91 8160263867</span>
                 <span className="flex items-center gap-2"><Mail className="w-4 h-4 text-gold-light" />girratnadesighee@gmail.com</span>
                 <span className="flex items-center gap-2"><MapPin className="w-4 h-4 text-gold-light" /> Gir, Gujarat, India</span>
               </div>
