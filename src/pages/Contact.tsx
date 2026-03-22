@@ -95,7 +95,7 @@ export default function Contact() {
               <h2 className="font-display text-2xl font-bold mb-6">Contact Information</h2>
               <div className="space-y-6 mb-10">
                 {[
-                  { icon: Phone, label: "Phone", value: "+91 98765 43210", href: "tel:+919876543210" },
+                  { icon: Phone, label: "Phone", value: "+91 98765 43210", href: "tel:+918160263867" },
                   { icon: Mail, label: "Email", value: "girratnadesighee@gmail.com", href: "mailto:girratnadesighee@gmail.com" },
                   { icon: MapPin, label: "Address", value: "GirRatna Dairy Farm, Junagadh Road, Rajkot, Gujarat 360001" },
                   { icon: MessageCircle, label: "WhatsApp", value: "+91 8160263867", href: "https://wa.me/918160263867" },
