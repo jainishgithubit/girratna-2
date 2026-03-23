@@ -9,8 +9,8 @@ const products = [
   {
     id: 1,
     name: "A2 Gir Cow Ghee – 500ml",
-    price: 799,
-    originalPrice: 999,
+    price: 1199,
+    originalPrice: 1199,
     image: ghee500,
     desc: "Perfect for daily cooking. Ideal for a small family.",
     badge: "Bestseller",
@@ -20,8 +20,8 @@ const products = [
   {
     id: 2,
     name: "A2 Gir Cow Ghee – 1 Litre",
-    price: 1499,
-    originalPrice: 1799,
+    price: 2199,
+    originalPrice: 2199,
     image: ghee1l,
     desc: "Our most popular size. Great value for regular use.",
     badge: "Best Value",
@@ -31,8 +31,8 @@ const products = [
   {
     id: 3,
     name: "A2 Gir Cow Ghee – 5 Litre",
-    price: 6499,
-    originalPrice: 7999,
+    price: 9999,
+    originalPrice: 9999,
     image: ghee5l,
     desc: "Family pack. Perfect for bulk buyers and festivals.",
     badge: "Save ₹1500",
