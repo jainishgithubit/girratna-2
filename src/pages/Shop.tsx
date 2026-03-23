@@ -32,7 +32,7 @@ const products = [
     id: 3,
     name: "A2 Gir Cow Ghee – 5 Litre",
     price: 9999,
-    originalPrice: 11998.8,
+    originalPrice: 12498.75,
     image: "./5l.png",
     desc: "Family pack. Perfect for bulk buyers and festivals.",
     badge: "Save ₹1500",
