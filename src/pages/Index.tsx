@@ -100,7 +100,7 @@ export default function Index() {
                 <img alt="GirRatna A2 Ghee 500ml" className="w-full aspect-square object-cover" src="/home.png" />
               </div>
               <div className="absolute -bottom-4 -right-4 bg-gradient-gold text-primary-foreground px-6 py-3 rounded-2xl font-bold text-lg shadow-gold">
-                ₹799
+                ₹1199
               </div>
             </div>
             <div>
