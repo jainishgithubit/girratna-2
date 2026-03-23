@@ -11,7 +11,7 @@ const products = [
     name: "A2 Gir Cow Ghee – 500ml",
     price: 1199,
     originalPrice: 1199,
-    image: "./500.png",
+    image: "500.png",
     desc: "Perfect for daily cooking. Ideal for a small family.",
     badge: "Bestseller",
     rating: 4.9,
