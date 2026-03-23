@@ -56,7 +56,7 @@ export default function About() {
               </div>
             </div>
             <div className="rounded-3xl overflow-hidden shadow-gold border-2 border-gold/20">
-              <img src={girCow} alt="Gir Cow" className="w-full aspect-[4/3] object-cover" />
+              <img src={"gyo.png"} alt="Gir Cow" className="w-full aspect-[4/3] object-cover" />
             </div>
           </div>
         </div>
