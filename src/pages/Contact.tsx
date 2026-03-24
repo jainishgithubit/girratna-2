@@ -65,7 +65,7 @@ export default function Contact() {
                       value={form.phone}
                       onChange={e => setForm(f => ({ ...f, phone: e.target.value }))}
                       className="w-full bg-card border border-border rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary transition-colors"
-                      placeholder="+91 98765 43210"
+                      placeholder="+91 8160263867"
                     />
                   </div>
                 </div>
@@ -95,10 +95,10 @@ export default function Contact() {
               <h2 className="font-display text-2xl font-bold mb-6">Contact Information</h2>
               <div className="space-y-6 mb-10">
                 {[
-                  { icon: Phone, label: "Phone", value: "+91 98765 43210", href: "tel:+918160263867" },
+                  { icon: Phone, label: "Phone", value: "+918160263867", href: "tel:+918160263867" },
                   { icon: Mail, label: "Email", value: "girratnadesighee@gmail.com", href: "mailto:girratnadesighee@gmail.com" },
                   { icon: MapPin, label: "Address", value: "Gir Ratna farm, Una Gir gadhada Road, Gir somnath" },
-                  { icon: MessageCircle, label: "WhatsApp", value: "+91 8160263867", href: "https://wa.me/918160263867" },
+                  { icon: MessageCircle, label: "WhatsApp", value: "+918160263867", href: "https://wa.me/918160263867" },
                 ].map(item => (
                   <div key={item.label} className="flex gap-4 items-start">
                     <div className="w-12 h-12 rounded-xl bg-gradient-gold flex items-center justify-center shadow-gold shrink-0">
