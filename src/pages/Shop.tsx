@@ -153,7 +153,7 @@ ${isSubscribe ? "🔁 Subscription: Yes (10% OFF)" : ""}
           <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
             {[
               "🛡️ 100% Genuine Product",
-              "🚚 Free Delivery Above ₹999",
+              "🚚 Free Delivery Above ₹2099",
               "💰 Cash on Delivery Available",
               "🔒 Secure Payment Gateway",
             ].map(badge => (
