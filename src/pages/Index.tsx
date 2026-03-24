@@ -139,7 +139,7 @@ export default function Index() {
               Why Families Choose <span className="text-gold-light">GirRatna</span>
             </h2>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {whyUs.map((item) =>
             <div key={item.title} className="text-center">
                 <div className="w-14 h-14 mx-auto mb-4 rounded-full border-2 border-gold/40 flex items-center justify-center">
