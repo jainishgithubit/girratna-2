@@ -13,7 +13,6 @@ const benefits = [
 
 const whyUs = [
 { icon: Shield, title: "Lab Tested & Certified", desc: "Every batch is tested for purity and quality." },
-{ icon: Award, title: "FSSAI Approved", desc: "Compliant with all food safety standards." },
 { icon: Heart, title: "Trusted by 10,000+ Families", desc: "Serving health-conscious homes across India." },
 { icon: Star, title: "Premium Gir Cows", desc: "Only A2 milk from indigenous Gir breed cows." }];
 
