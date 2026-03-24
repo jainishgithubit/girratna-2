@@ -113,7 +113,7 @@ export default function Index() {
                 using the traditional Bilona churning method.
               </p>
               <div className="flex flex-wrap gap-3 mb-8">
-                {["A2 Protein", "Bilona Method", "Chemical Free", "FSSAI Certified"].map((tag) =>
+                {["A2 Protein", "Bilona Method", "Chemical Free"].map((tag) =>
                 <span key={tag} className="bg-secondary text-secondary-foreground px-4 py-2 rounded-full text-sm font-medium">
                     {tag}
                   </span>
